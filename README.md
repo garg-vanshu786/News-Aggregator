@@ -5,7 +5,7 @@ This Project is a beginner friendly project I built using React. Some key Aspect
 - Used News API for fetching news articles .(clickable tabs)
 - Site collects information from all over the web and fetch it in one location for visitors to access
 - Loading bar animated at top of webpage while page is loading and when we are scrooling artiles
-- Clickable Markers on Articles to land onn the articles webpage
+- Clickable Markers on Articles to land on the articles webpage
 
 # Getting Started with Create React App
 
