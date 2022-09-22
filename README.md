@@ -1,4 +1,5 @@
 # News-Aggregator
+
 This Project is a beginner friendly project I built using React. Some key Aspects:
 
 - Used News API for fetching news articles .(clickable tabs)
